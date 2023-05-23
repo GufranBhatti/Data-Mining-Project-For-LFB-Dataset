@@ -1,7 +1,7 @@
 # Project Title
 Data-Mining-Project-For-LFB-Dataset
 # Project Description
-In this project LFB dataset was given. The data provides details on the date and time of call, incident category and description, location information such as postcode and incident station, as well as response information such as pump attendance time and cost. The objective of this project was to analize data, find business probems, provide solutions, do data preprocessing, construct models, and interpret and evaluate models. All the objectives have been successfully accomplished and documented. Jupyter Notebook was utilized for the task, ensuring that each cell contains an observation that effectively describes and meets the specified requirements.
+In this project LFB dataset was given. The data provides details on the date and time of call, incident category and description, location information such as postcode and incident station, as well as response information such as pump attendance time and cost. The objective of this project was to analyze data, find business problems, provide solutions, do data preprocessing, construct models, and interpret and evaluate models. All the objectives have been successfully accomplished and documented. Jupyter Notebook was utilized for the task, ensuring that each cell contains an observation that effectively describes and meets the specified requirements.
 # How to use project
 1. The file is notebook so jupyter notebook IDE or Dataspell IDE is required.
 2. Dataset is given in the repository.
